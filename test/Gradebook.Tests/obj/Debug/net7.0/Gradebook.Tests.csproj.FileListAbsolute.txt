@@ -96,3 +96,9 @@
 /Users/stacylynn/gradebook/test/Gradebook.Tests/obj/Debug/net7.0/Gradebook.Tests.pdb
 /Users/stacylynn/gradebook/test/Gradebook.Tests/obj/Debug/net7.0/Gradebook.Tests.genruntimeconfig.cache
 /Users/stacylynn/gradebook/test/Gradebook.Tests/obj/Debug/net7.0/ref/Gradebook.Tests.dll
+/Users/stacylynn/gradebook/test/Gradebook.Tests/bin/Debug/net7.0/CoverletSourceRootsMapping
+/Users/stacylynn/gradebook/test/Gradebook.Tests/bin/Debug/net7.0/Gradebook.deps.json
+/Users/stacylynn/gradebook/test/Gradebook.Tests/bin/Debug/net7.0/Gradebook.runtimeconfig.json
+/Users/stacylynn/gradebook/test/Gradebook.Tests/bin/Debug/net7.0/Gradebook
+/Users/stacylynn/gradebook/test/Gradebook.Tests/bin/Debug/net7.0/Gradebook.dll
+/Users/stacylynn/gradebook/test/Gradebook.Tests/bin/Debug/net7.0/Gradebook.pdb
